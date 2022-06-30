@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--- ### Hi! 👋 --->
 
 <!--
 **Twenkid/Twenkid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello, I'm Todor Arnaudov, aka Tosh, <a href="http://artificial-mind.blogspot.bg/2008/04/twenkid.html">Twenkid</a> etc.
+- 🌱 I'm a <b>"universal man"</b> with a huge and "absurd" variety of topics of interests and talents and I like to extend and combine them.
+- 🌱 I was a "child prodigy" in AGI and transhumanism and an AGI pioneer, although you probably haven't heard of my early 2000s works (published since 2001 in the Bulgarian AGI e-zine "Sacred Computer" (Свещеният сметач) which I created; my 2003 <a href="https://translate.google.com/translate?sl=auto&tl=en&u=https://artificial-mind.blogspot.com/2020/07/interdisciplinary-research-institute.html">strategy/proposal for creation of a super interdisciplinary AGI institute</a> in Bulgaria for one million euro (compare to DeepMind (2010), Stanford's Human Centered AI (2018), MIT's One Billion Institute (2018), ETH in Switzerland (2020) and INSAIT in Sofia (2022). Compare also my original interdisciplinary <a href="http://artificial-mind.blogspot.com/2010/04/universal-artificial-intelligence.html">AGI University courses</a> in 2010 and 2011 wtith MIT's first course in 2018.
+- 💬 A documentary collection of works book about my visionary and pioneering writings etc., compared in chronology with the academic and mainstream AGI research, mainly compiled in 2020, is yet to be published, initially <a href="https://artificial-mind.blogspot.com/2022/01/transhumanism-spirdonov-20-years-after-Sacred-Computer-Smetach.html">in Bulgarian</a> (<i>"History, Theory and Pioneers in the Artificial General Intelligence and Transhumanism"</i>, more than 1000 pages long in its current layout.)
+- 👯 I’m looking for collaborators, supporters, projects where I could join and earn, also readers and viewers, and sponsors/donations and/or customers for my works (research, programming, literature, creative and media etc.), and for adding more energy and possibly finding partners and collaborators to my interdisciplinary research institute in AGI, which so far I run on my own self-funded.
+- 📫 How to reach me: http://artificical-mind.blogspot.com  or  http://twenkid.com
+- ⚡ I'm a youtuber <b>"Twenkid Studio - Artificial Mind"</b>. Watch my "medley" channel and the latest deepfake comedy <b>"Arnold Schwarzenegger: The Governor of Bulgaria"</b> https://youtu.be/n2JMGqxOYfA 
