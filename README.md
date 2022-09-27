@@ -22,4 +22,4 @@ Hello, I'm Todor Arnaudov, aka Tosh, <a href="http://artificial-mind.blogspot.bg
 - 📫 How to reach me: http://artificical-mind.blogspot.com | http://twenkid.com | http://eim.twenkid.com
 - ⚡ I'm a youtuber <b>"Twenkid Studio - Artificial Mind"</b>. Watch my funny "medley" channel and the latest deepfake comedy series made with my grayscale version of DeepFaceLab <a href="https://github.com/Twenkid/DeepFaceLab-SAEHDBW">"ArnoldDFR"</a> or DFL-SAEHDBW: <b>"Arnold Schwarzenegger: The Governor of Bulgaria"</b> https://youtu.be/n2JMGqxOYfA ; Part 2: https://youtu.be/k1MZ8eIUjXE etc.
 * История, теория и пионери на Универсалния изкуствен разум и трансхуманизма, или Българският пионер в Общия изкуствен интелект и трансхуманизма:<p></p>
-
+<img src="https://eim.twenkid.com/1.png" width=42%> <img src="https://eim.twenkid.com/2.png" width=56%><br><img src="https://eim.twenkid.com/3.png" width=66%>
